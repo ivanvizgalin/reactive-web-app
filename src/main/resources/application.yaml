@@ -1,0 +1,8 @@
+server:
+  port: 8181
+spring:
+  data:
+    mongodb:
+      database: mongouser
+      username: mongouser
+      password: mongouser
